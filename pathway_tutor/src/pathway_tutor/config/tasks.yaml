@@ -7,6 +7,10 @@ categorization:
     - Problem-Solving: Questions requiring step-by-step solutions
     - Comparison: Questions asking for differences/similarities
     - Process-Guide: Requests for procedural guidance
+    - Doubt-Clearing: asking doubts regarding a particular concept
+    - Python-Code: python code for  accomplishing a particular task
+    - Python-Debug: debug a python code written for a particular task
+    - Irrelevant: Not relevant to Data Science, Machine Learning, Deep Learning and Artificial Intelligence
     Current Question: {question}
   expected_output: >
     Only the category name from the list above, nothing else.
